@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainBpmChanger", "MainBpmChanger.csproj", "{4FEFD277-C53E-407D-A9DD-7095D707AFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FEFD277-C53E-407D-A9DD-7095D707AFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEFD277-C53E-407D-A9DD-7095D707AFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEFD277-C53E-407D-A9DD-7095D707AFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEFD277-C53E-407D-A9DD-7095D707AFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5EABFA-9736-4E6A-97BC-78D54CD58ACD}
+	EndGlobalSection
+EndGlobal
